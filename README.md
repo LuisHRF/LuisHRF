@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Luis H. Rodriguez and I'm a Data Analist from Spain!</h2>
+<h2 align="left">Hi 👋! My name is Luis H. Rodriguez and I'm a Data Professional from Spain!</h2>
 
 ###
 
