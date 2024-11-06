@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">👀 I’m interested in working as a Data Analyst or Data Scientist. For some time now I have been training in EDA, ML, LLM and DataViz through the tools that are most used today.</p>
+<p align="left">👀 Data professional with expertise in analysis, cleaning, and visualization. Proficient in Python, SQL, and R, I am committed to solving business challenges through data-driven solutions. Leveraging my background in journalism, I excel at translating data insights into clear narratives for diverse stakeholders. Focused on bridging the gap between analysis and actionable decision-making to drive impactful results.</p>
 
 ###
 
